@@ -1,7 +1,7 @@
 # Getting Started with This App
 
 ## Tool Prerequisites
-
+ 
 You must have these tools installed/setup
 - NVM or NodeJS
 - [MetaMask Browser Extension](https://metamask.io)
